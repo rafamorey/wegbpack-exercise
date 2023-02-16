@@ -57,3 +57,5 @@ const main = ()=>{
     $links.appendChild(newItem)
     $name.appendChild(name)
 }
+
+main()
